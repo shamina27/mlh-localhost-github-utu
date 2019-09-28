@@ -15,7 +15,7 @@ Milwaukee, Wisconsin
 Elmhurst, Illinois
 
 New York, USA
-
+Ahemdabad,india
 Paris, France
 
 Montreal, Canada
@@ -85,7 +85,7 @@ Parsippany, New Jersey
 Haworth, New Jersey
 
 Dhaka, Bangladesh
-Surst, India
+
 Huntington, New York
 
 New York, NY
